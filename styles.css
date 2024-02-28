@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 10px;
+}
+div{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: aquamarine;
+    padding: 10px;
+    min-height: 150px;
+}
+#jokeElement{
+    width: 200px;
+    font-size: 1.5rem;
+    color: blueviolet;
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+}
